@@ -1,0 +1,2 @@
+SELECT @@version;
+SELECT DB_NAME();
